@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**galaxyv1/galaxyv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an 6 grader student, and I like to do coding on Github (Gitee is too busy).
 
-Here are some ideas to get you started:
+Learing [Scratch](https://aerfaying.com/Users/1136872), Python, HTML/CSS and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are the repositories that I made:
+
+|Name|Link|Language|
+|----|----|--------|
+|GalaxyWeb|[Link](https://github.com/galaxyv1/galaxyv1.github.io)|HTML/CSS/JS|
+
+Email：[galaxy1@foxmail.com](mailto:galaxy1@foxmail.com)
