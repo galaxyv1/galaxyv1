@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am an 6 grader student, and I like to do coding on Github (Gitee is too busy).
+I am an 6 grader student, and I like to do coding on Github.
 
 Learing [Scratch](https://aerfaying.com/Users/1136872), Python, HTML/CSS and JavaScript.
 
